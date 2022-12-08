@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akash
 - 👀 I’m interested in Mobile app development 
 - 🌱 I’m currently learning Android native app
-- 💞️ I’m a Self-taught programmer
+- 💞️ I’m a self-taught Native Android app developer
 - 📫 How to reach me akashbhattacharyak1314@gmail.com
 
 <!---
