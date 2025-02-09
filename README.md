@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akash
 - 👀 I’m interested in Mobile app development 
-- 🌱 I’m currently learning Android native app @Inxense
-- 💞️ I’m a self-taught Native Android app developer
+- 🌱 I’m currently learning iOS native app @Inxense
+- 💞️ I’m a self-taught Native Mobile app developer (iOS & Android)
 - 📫 How to reach me akashbhattacharyak1314@gmail.com
 
 <!---
